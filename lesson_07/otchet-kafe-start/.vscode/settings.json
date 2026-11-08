@@ -1,0 +1,7 @@
+{
+  "autoDocstring.docstringFormat": "google-notypes",
+  "autoDocstring.startOnNewLine": false,
+  "autoDocstring.includeName": false,
+  "autoDocstring.guessTypes": true,
+  "autoDocstring.includeExtendedSummary": false
+}
